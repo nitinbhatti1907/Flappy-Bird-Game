@@ -1,2 +1,2 @@
-# Title :- Flappy Bird Game Project
+# Title :- Flappy Bird Game
 Discription :- "Flappy Bird" can be created using the Python programming language, and the game can be implemented using various libraries such as Pygame.To create a basic version of the game, you would start by setting up the game window and creating the bird character that the player controls. You would then need to add the pipes that the bird must avoid, as well as code for detecting collisions between the bird and the pipes. The game's scoring system and game-over conditions would also need to be implemented.
